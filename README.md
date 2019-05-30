@@ -1,2 +1,0 @@
-# sun-cli
-new cli
